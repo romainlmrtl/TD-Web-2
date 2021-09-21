@@ -19,6 +19,10 @@ p {
     text-align: center;
 }
 
+#fdp {
+    text-align: center;
+}
+
 .tableau-style {
     border-collapse: collapse;
     min-width: 400px;
